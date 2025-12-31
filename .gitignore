@@ -1,0 +1,22 @@
+# --- Executables & Binaries ---
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# --- IDE & Editor folders ---
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Build directories ---
+build/
+bin/
